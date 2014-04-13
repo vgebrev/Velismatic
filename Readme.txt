@@ -1,3 +1,5 @@
+Project for Interactive Visualisations to be projected at Afrika Burn 2014
+
 Windows Dev Setup:
 
 1. Install Visual C# 2010 Express (other editions work too)
