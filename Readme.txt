@@ -12,5 +12,5 @@ Windows Dev Setup:
   - http://www.xnaparticles.com/
   - Mine is installed in E:\Dev\Lib\DPSF, so you might have to remove and re-add the DPSF.dll reference
   
-4. Install OpenNI 1.5.2.23 (x86)
+4. Install OpenNI SDK v1.5.7.10 and NiTE 1.5.2.23 (x86)
   - http://www.openni.org/openni-sdk/openni-sdk-history-2/
